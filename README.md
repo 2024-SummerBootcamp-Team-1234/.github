@@ -81,6 +81,7 @@
 <br />
 
 <h2>🗝️ ERD</h2>
+<img src="https://github.com/user-attachments/assets/748fd3ad-a37c-4390-bc7a-8a50f42e2767">
 
 <br />
 <br />
@@ -92,8 +93,10 @@
 <br />
 <h2>🔍 Monitoring</h2>
 <h3>prometheus</h3>
+<img src="https://github.com/user-attachments/assets/2da8adbc-32df-4e91-83a4-e2b95ffb9ceb">
 
 <h3>Grafana dashboard</h3>
+<img src="https://github.com/user-attachments/assets/b202a863-a642-43a1-a676-13f6060105c0">
 
 <br />
 <h2>📓 How to Start</h2>
@@ -158,23 +161,28 @@
             </a>
         </td>
         <td width="100" align="center">
-            <a href="">
-                <img src="" width="80" height="80">
+            <a href="https://github.com/Sum1nLee">
+                <img src="https://github.com/user-attachments/assets/740407c1-c95b-4601-91ad-4c2cd638583d" width="80" height="80">
             </a>
         </td>
         <td width="100" align="center">
-            <a href="">
-                <img src="" width="80" height="80">
+            <a href="https://github.com/myun1022">
+                <img src="https://github.com/user-attachments/assets/95224109-1f17-405e-8012-4b1760fb4af9" width="80" height="80">
             </a>
         </td>
         <td width="100" align="center">
-            <a href="">
-                <img src="" width="80" height="80">
+            <a href="https://github.com/UpToMind">
+                <img src="https://github.com/user-attachments/assets/a95526fe-4e0f-486a-a585-cad2673ed57c" width="80" height="80">
             </a>
         </td>
         <td width="100" align="center">
-            <a href="">
-                <img src="" width="80" height="80">
+            <a href="https://github.com/xaexunxang">
+                <img src="https://github.com/user-attachments/assets/2c00469d-cb8e-416c-b0ae-a51012f76753" width="80" height="80">
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/jina111">
+                <img src="https://github.com/user-attachments/assets/661f7512-011b-464c-88d2-19acd895dc0e" width="80" height="80">
             </a>
         </td>
     </tr>
@@ -183,8 +191,9 @@
         <td width="100" align="center">이상훈</td>
         <td width="100" align="center">이수민</td>
         <td width="100" align="center">김미현</td>
-        <td width="100" align="center">김지나</td>
         <td width="100" align="center">이동준</td>
+        <td width="100" align="center">강재훈</td>
+        <td width="100" align="center">김지나</td>
     </tr>
     <tr>
         <th>Position</th>
@@ -207,6 +216,9 @@
         <td width="100" align="center">
             Frontend<br>Design<br/>
         </td>
+        <td width="100" align="center">
+            Frontend<br>Design<br/>
+        </td>
     </tr>
     <tr>
         <th>GitHub</th>
@@ -216,23 +228,28 @@
             </a>
         </td>
         <td width="100" align="center">
-            <a href="">
-                <img src=""/>
+            <a href="https://github.com/Sum1nLee">
+                <img src="http://img.shields.io/badge/Sum1nLee-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="">
-                <img src=""/>
+            <a href="https://github.com/myun1022">
+                <img src="http://img.shields.io/badge/myun1022-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="">
-                <img src=""/>
+            <a href="https://github.com/UpToMind">
+                <img src="http://img.shields.io/badge/UpToMind-green?style=social&logo=github"/>
             </a>
         </td>
         <td width="100" align="center">
-            <a href="">
-                <img src=""/>
+            <a href="https://github.com/xaexunxang">
+                <img src="http://img.shields.io/badge/xaexunxang-green?style=social&logo=github"/>
+            </a>
+        </td>
+        <td width="100" align="center">
+            <a href="https://github.com/jina111">
+                <img src="http://img.shields.io/badge/jina111-green?style=social&logo=github"/>
             </a>
         </td>
      </tr>
