@@ -86,11 +86,14 @@
 <br />
 <br />
 <h2>📁 API</h2>
+<h3>Swagger</h3>
+<img src="https://github.com/user-attachments/assets/6f4d45e9-ccba-4749-a6f9-b10f24db8b4d">
+<h3>Postman</h3>
+<img src="https://github.com/user-attachments/assets/5df007f9-4a77-46fa-87b9-7018c4395681">
+<img src="https://github.com/user-attachments/assets/8dc1cfa5-968b-4e6a-8e2d-0f876d11913f">
 
 <br />
-<h2>💬 WebSocket</h2>
 
-<br />
 <h2>🔍 Monitoring</h2>
 <h3>prometheus</h3>
 <img src="https://github.com/user-attachments/assets/2da8adbc-32df-4e91-83a4-e2b95ffb9ceb">
