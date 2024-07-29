@@ -30,6 +30,7 @@
 <br />
 
 <h2>🏛️ System Architechture</h2>
+<img src="https://github.com/user-attachments/assets/98e15c04-7989-459c-b1f2-4f406a9c1c26">
 
 <br />
 <br />
