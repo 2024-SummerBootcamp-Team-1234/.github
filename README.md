@@ -1,9 +1,4 @@
-# .github
-
-# 양식 
-<h1 align="center">
-    ⚖️SOLOMON⚖️
-</h1>
+# ⚖️Solomon
 <div align=center>
 <img src="https://github.com/user-attachments/assets/ad540723-dc25-40c6-ab8a-b85b2603b9e5"/>
 <h5>2024.06.24-2024.08.03</h5>
