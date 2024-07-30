@@ -89,8 +89,7 @@
 <h3>Swagger</h3>
 <img src="https://github.com/user-attachments/assets/6f4d45e9-ccba-4749-a6f9-b10f24db8b4d">
 <h3>Postman</h3>
-<img src="https://github.com/user-attachments/assets/5df007f9-4a77-46fa-87b9-7018c4395681">
-<img src="https://github.com/user-attachments/assets/8dc1cfa5-968b-4e6a-8e2d-0f876d11913f">
+<img src="https://github.com/user-attachments/assets/77f8653c-bb67-45a7-a4df-1d875878b5f8">
 
 <br />
 
@@ -136,14 +135,43 @@
 <details>
   <summary>Backend</summary>
 
-  ### Install Packages
-  설치 가이드 라인(혹시 몰라서 냅둠)
-
-
   ### Add Environment Files(.env)
-
+  **django_backend/.env**
+  ```
+  DATABASE_NAME= 
+  DATABASE_USER=
+  DATABASE_PASS=
+  DATABASE_HOST=
+  DATABASE_PORT=
+  SECRET_KEY=
+  
+  JWT_SECRET_KEY=
+  
+  CLOVA_CLIENT_ID=
+  CLOVA_CLIENT_SECRET=
+  ```
+  **db/.env**
+  ```
+  MYSQL_DATABASE=
+  MYSQL_ROOT_USER=
+  MYSQL_PASSWORD=
+  MYSQL_ROOT_PASSWORD=
+  ```
+  **channel/.env**
+  ```
+  OPENAI_API_KEY=
+  
+  OPENSEARCH_URL=
+  OPENSEARCH_ID=
+  OPENSEARCH_PASSWORD=
+  OPENSEARCH_INITIAL_ADMIN_PASSWORD=
+  ```
+  
+  ### Docker Run Command
+  백엔드 서비스를 시작하기 위해 다음 Docker Compose 명령어를 실행합니다.
+  
+    docker-compose -p teaml -f Solomon-Docker/docker-compose.prod.yml up -d -—build
             
-    
 </details>
 <br /> 
 <!-- <h2>📂 Directory Structure</h2>
