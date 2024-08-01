@@ -11,7 +11,7 @@
 <br />
 
 <h2>📄 Medium</h2>
-
+https://medium.com/@kimmi20571/2024-siliconvalley-summer-bootcamp-solomon-2338a450b300
 <br />
 <br />
 
