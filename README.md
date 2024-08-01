@@ -201,7 +201,7 @@ https://medium.com/@kimmi20571/2024-siliconvalley-summer-bootcamp-solomon-2338a4
         </td>
         <td width="100" align="center">
             <a href="https://github.com/Sum1nLee">
-                <img src="https://github.com/user-attachments/assets/740407c1-c95b-4601-91ad-4c2cd638583d" width="80" height="80">
+                <img src="https://github.com/user-attachments/assets/a539624b-24d3-43e3-9d83-58d792c9f941" width="80" height="80">
             </a>
         </td>
         <td width="100" align="center">
