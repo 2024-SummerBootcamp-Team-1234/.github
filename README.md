@@ -16,14 +16,23 @@ https://medium.com/@kimmi20571/2024-siliconvalley-summer-bootcamp-solomon-2338a4
 <br />
 
 <h2>🖥️ Demo</h2>
-- 데모 영상 넣기
-
 <h3>메인페이지</h3>
-- main page image 넣기
-- 추가 Page별로 image 넣기
-<br />
-<br />
-<br />
+<img src="https://github.com/user-attachments/assets/28bf872c-44d0-4fb5-9609-1c305d2bc6fa">
+<h3>카테고리 선택 페이지</h3>
+<img src="https://github.com/user-attachments/assets/496374e6-7d06-4ab0-a0b7-6188ece19fa8">
+<h3>상황 입력 페이지</h3>
+<img src="https://github.com/user-attachments/assets/55efaa2e-66ec-4667-8d16-d2bbb51c379f">
+<h3>주장 입력 페이지</h3>
+<img src="https://github.com/user-attachments/assets/f92d90b2-9b6a-40bb-acd8-d258605b6ec6">
+<h3>주장 요약 페이지</h3>
+<img src="https://github.com/user-attachments/assets/6fce120c-0528-4e74-8072-20c27fbb19af">
+<h3>변론 입력 페이지</h3>
+<img src="https://github.com/user-attachments/assets/da8aec7e-0b87-4b41-8c94-e6f4df486703">
+<h3>결과 페이지</h3>
+<img src="https://github.com/user-attachments/assets/99885ed4-8908-4cb9-8e0d-33a8dd6a233b">
+<h3>게시판 페이지</h3>
+<img src="https://github.com/user-attachments/assets/3fe14855-d81e-43c4-b19e-e9172c99ad20">
+
 <br />
 <br />
 <br />
