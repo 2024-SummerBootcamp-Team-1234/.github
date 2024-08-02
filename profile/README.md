@@ -3,14 +3,14 @@
 <img src="https://github.com/user-attachments/assets/ad540723-dc25-40c6-ab8a-b85b2603b9e5"/>
 <h5>2024.06.24-2024.08.03</h5>
 <h4>https://solo-mon.site</h4>
-<h5>솔로몬(Solomon)은 AI 모의재판 웹 서비스입니다.</h5>
-<h5>솔로몬은 사용자가 원하는 상황에 대해 AI를 통해 모의 재판을 체험할 수 있는 서비스를 제공합니다. 
+<h3>솔로몬(Solomon)은 AI 모의재판 웹 서비스입니다.</h3>
+<h3>솔로몬은 사용자가 원하는 상황에 대해 AI를 통해 모의 재판을 체험할 수 있는 서비스를 제공합니다. 
   
-  사용자는 재판을 진행하면서 AI가 제공하는 법적 근거, 관련 판례, 그리고 예상 판결 결과를 얻을 수 있습니다.</h5>
+  사용자는 재판을 진행하면서 AI가 제공하는 법적 근거, 관련 판례, 그리고 예상 판결 결과를 얻을 수 있습니다.</h3>
 </div>
 <br />
 
-<h2>📄 Medium</h2>
+<h2>📖 Medium</h2>
 https://medium.com/@kimmi20571/2024-siliconvalley-summer-bootcamp-solomon-2338a450b300
 <br />
 <br />
